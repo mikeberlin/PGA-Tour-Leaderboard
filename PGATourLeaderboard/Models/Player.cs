@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
 using System.Threading.Tasks;
+using System.IO;
+using System.Reflection;
 
 namespace PGATourLeaderboard
 {
@@ -75,8 +77,8 @@ namespace PGATourLeaderboard
 	{
 		#region Properties, Constants, etc.
 
-		private readonly string PlayerScoresBaseUri = "https://api.sportsdatallc.org/golf-t1/leaderboard/pga/2014/tournaments/{0}/leaderboard.xml?api_key={1}";
-		private readonly XNamespace PlayerScoreNamespace = "http://feed.elasticstats.com/schema/golf/tournament/leaderboard-v1.0.xsd";
+		private readonly string PLAYERSCORES_NAMESPACE_BASE_URI = "https://api.sportsdatallc.org/golf-t1/leaderboard/pga/2014/tournaments/{0}/leaderboard.xml?api_key={1}";
+		private readonly XNamespace PLAYERSCORES_NAMESPACE = "http://feed.elasticstats.com/schema/golf/tournament/leaderboard-v1.0.xsd";
 
 		public string TournamentId { get; set; }
 		public IEnumerable<Player> PlayerScores { get; set; }
@@ -96,19 +98,38 @@ namespace PGATourLeaderboard
 
 		public async Task<IEnumerable<Player>> GetPlayerScores ()
 		{
-			PlayerScores = await Task.Factory.StartNew (() => {
-				if (PlayerScores == null) {
-					PlayerScores = XDocument.Load (string.Format (PlayerScoresBaseUri, TournamentId, API.KEY))
-						.Descendants (PlayerScoreNamespace + "leaderboard")
-						.Descendants (PlayerScoreNamespace + "player")
-						.Select (ps => new Player (ps))
-						.ToList ();
-				}
-
-				return PlayerScores;
-			});
+			if (PlayerScores == null) {
+				//LocalLoad ();
+				await WebServiceLoad ();
+			}
 
 			return PlayerScores;
+		}
+
+		#endregion
+
+		#region Private Methods
+
+		private void LocalLoad ()
+		{
+			var assembly = typeof(TournamentsPage).GetTypeInfo ().Assembly;
+			Stream stream = assembly.GetManifestResourceStream ("PGATourLeaderboard.rbc-canadian-open.xml");
+			PlayerScores = XDocument.Load (stream)
+				.Descendants (PLAYERSCORES_NAMESPACE + "leaderboard")
+				.Descendants (PLAYERSCORES_NAMESPACE + "player")
+				.Select (ps => new Player (ps))
+				.ToList ();
+		}
+
+		private async Task WebServiceLoad ()
+		{
+			PlayerScores = await Task.Factory.StartNew (() => {
+				return XDocument.Load (string.Format (PLAYERSCORES_NAMESPACE_BASE_URI, TournamentId, API.KEY))
+					.Descendants (PLAYERSCORES_NAMESPACE + "leaderboard")
+					.Descendants (PLAYERSCORES_NAMESPACE + "player")
+					.Select (ps => new Player (ps))
+					.ToList ();
+			});
 		}
 
 		#endregion

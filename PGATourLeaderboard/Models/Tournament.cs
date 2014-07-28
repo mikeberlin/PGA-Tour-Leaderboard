@@ -3,6 +3,8 @@ using System.Xml.Linq;
 using System.Linq;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Reflection;
+using System.IO;
 
 namespace PGATourLeaderboard
 {
@@ -52,7 +54,7 @@ namespace PGATourLeaderboard
 	{
 		#region Properties, Constants, etc.
 
-		private static readonly string TOURNAMENTS_URI = "https://api.sportsdatallc.org/golf-t1/schedule/pga/2014/tournaments/schedule.xml?api_key={0}";
+		private static readonly string TOURNAMENTS_BASE_URI = "https://api.sportsdatallc.org/golf-t1/schedule/pga/2014/tournaments/schedule.xml?api_key={0}";
 		private static readonly XNamespace TOURNAMENTS_NAMESPACE = "http://feed.elasticstats.com/schema/golf/schedule-v1.0.xsd";
 
 		public static IEnumerable<Tournament> Tournaments { get; set; }
@@ -64,15 +66,35 @@ namespace PGATourLeaderboard
 		public static async Task<IEnumerable<Tournament>> GetTournaments ()
 		{
 			if (Tournaments == null) {
-				Tournaments = await Task.Factory.StartNew(() => {
-					return XDocument.Load (string.Format (TOURNAMENTS_URI, API.KEY))
-						.Descendants (TOURNAMENTS_NAMESPACE + "tournament")
-						.Select (t => new Tournament (t))
-						.ToList ();
-				});
+				//LocalLoad ();
+				await WebServiceLoad ();
 			}
 
 			return Tournaments;
+		}
+
+		#endregion
+
+		#region Private Methods
+
+		private static void LocalLoad ()
+		{
+			var assembly = typeof(TournamentsPage).GetTypeInfo ().Assembly;
+			Stream stream = assembly.GetManifestResourceStream ("PGATourLeaderboard.tournaments.xml");
+			Tournaments = XDocument.Load (stream)
+				.Descendants (TOURNAMENTS_NAMESPACE + "tournament")
+				.Select (t => new Tournament (t))
+				.ToList ();
+		}
+
+		private static async Task WebServiceLoad ()
+		{
+			Tournaments = await Task.Factory.StartNew(() => {
+				return XDocument.Load (string.Format (TOURNAMENTS_BASE_URI, API.KEY))
+					.Descendants (TOURNAMENTS_NAMESPACE + "tournament")
+					.Select (t => new Tournament (t))
+					.ToList ();
+			});
 		}
 
 		#endregion

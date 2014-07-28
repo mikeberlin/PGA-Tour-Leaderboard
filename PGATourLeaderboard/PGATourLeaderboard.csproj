@@ -55,8 +55,11 @@
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Pages\" />
+    <Folder Include="Data\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="pgatour.png" />
+    <EmbeddedResource Include="Data\rbc-canadian-open.xml" />
+    <EmbeddedResource Include="Data\tournaments.xml" />
   </ItemGroup>
 </Project>

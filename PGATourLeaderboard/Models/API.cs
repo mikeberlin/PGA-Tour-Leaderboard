@@ -4,7 +4,6 @@ namespace PGATourLeaderboard
 {
 	public class API
 	{
-		// TODO: Place your Sports Data LLC API key here
-		public const string KEY = string.Empty;
+		public const string KEY = "79d8wrqcydpvg4an2tcbkq28";
 	}
 }

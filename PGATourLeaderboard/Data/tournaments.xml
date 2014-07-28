@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-14 20:31:09 +0000 -->
+<tour xmlns="http://feed.elasticstats.com/schema/golf/schedule-v1.0.xsd" id="b52068af-28e4-4e91-bdbb-037591b0ff84" alias="pga" name="PGA Tour">
+  <season year="2014" id="27e3e699-87d6-495f-9ea2-615cdfa6b1b5">
+    <tournament id="8d463c8b-e259-482d-8729-3c9efa877a22" name="Frys.com Open" event_type="stroke" purse="5000000.0" winning_share="900000.0" points="500" start_date="2013-10-10" end_date="2013-10-13">
+      <venue id="ebe5e0b6-6268-4a6f-b1b6-caf3c3b4a012" name="CordeValle Golf Club" city="San Martin" state="California" zipcode="" country="USA">
+        <course id="68ffd2ac-802c-40e5-92bb-4bc8eede5158" name="CordeValle" yardage="7368" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="422"/>
+            <hole number="2" par="4" yardage="434"/>
+            <hole number="3" par="3" yardage="230"/>
+            <hole number="4" par="4" yardage="418"/>
+            <hole number="5" par="4" yardage="454"/>
+            <hole number="6" par="4" yardage="480"/>
+            <hole number="7" par="3" yardage="166"/>
+            <hole number="8" par="4" yardage="478"/>
+            <hole number="9" par="5" yardage="555"/>
+            <hole number="10" par="4" yardage="425"/>
+            <hole number="11" par="3" yardage="236"/>
+            <hole number="12" par="5" yardage="605"/>
+            <hole number="13" par="4" yardage="407"/>
+            <hole number="14" par="4" yardage="497"/>
+            <hole number="15" par="5" yardage="568"/>
+            <hole number="16" par="3" yardage="210"/>
+            <hole number="17" par="4" yardage="358"/>
+            <hole number="18" par="4" yardage="425"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="4a7bc742-6202-4108-b649-754b13c41dc4" name="Shriner's Hospitals for Children Open" event_type="stroke" purse="4500000.0" winning_share="810000.0" points="500" start_date="2013-10-17" end_date="2013-10-20">
+      <venue id="4743d27b-678f-496f-a6b3-b90549955a14" name="TPC Summerlin" city="Las Vegas" state="Nevada" zipcode="" country="USA">
+        <course id="293f93d0-6730-4081-a3e8-d9949c4db05b" name="TPC Summerlin - Host Club" yardage="7223" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="408"/>
+            <hole number="2" par="4" yardage="469"/>
+            <hole number="3" par="4" yardage="472"/>
+            <hole number="4" par="4" yardage="450"/>
+            <hole number="5" par="3" yardage="197"/>
+            <hole number="6" par="4" yardage="430"/>
+            <hole number="7" par="4" yardage="382"/>
+            <hole number="8" par="3" yardage="239"/>
+            <hole number="9" par="5" yardage="563"/>
+            <hole number="10" par="4" yardage="420"/>
+            <hole number="11" par="4" yardage="448"/>
+            <hole number="12" par="4" yardage="442"/>
+            <hole number="13" par="5" yardage="606"/>
+            <hole number="14" par="3" yardage="156"/>
+            <hole number="15" par="4" yardage="341"/>
+            <hole number="16" par="5" yardage="560"/>
+            <hole number="17" par="3" yardage="196"/>
+            <hole number="18" par="4" yardage="444"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="b5c51c3b-7dbe-4d5e-8d53-9c52e3040ff8" name="CIMB Classic" event_type="stroke" purse="7000000.0" points="500" start_date="2013-10-23" end_date="2013-10-27">
+      <venue id="ea7f011b-163f-49cc-909e-3b46a53c0d47" name="Kuala Lumpur Golf &amp; Country Club" city="Bukit Kiara" state="Kuala Lumpur" zipcode="" country="Malaysia">
+        <course id="a4dc41a6-d08c-4ed0-803c-cf57dd142662" name="Kuala Lumpur Golf &amp; Country Club" yardage="6951" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="400"/>
+            <hole number="2" par="4" yardage="444"/>
+            <hole number="3" par="5" yardage="503"/>
+            <hole number="4" par="3" yardage="140"/>
+            <hole number="5" par="5" yardage="518"/>
+            <hole number="6" par="4" yardage="420"/>
+            <hole number="7" par="4" yardage="375"/>
+            <hole number="8" par="3" yardage="203"/>
+            <hole number="9" par="4" yardage="404"/>
+            <hole number="10" par="5" yardage="559"/>
+            <hole number="11" par="3" yardage="202"/>
+            <hole number="12" par="4" yardage="479"/>
+            <hole number="13" par="4" yardage="459"/>
+            <hole number="14" par="4" yardage="358"/>
+            <hole number="15" par="3" yardage="199"/>
+            <hole number="16" par="4" yardage="318"/>
+            <hole number="17" par="4" yardage="336"/>
+            <hole number="18" par="5" yardage="634"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="fb999021-11a2-45be-9bdb-304c1fa3a17c" name="World Golf Championship - HSBC Champions" event_type="stroke" purse="8500000.0" points="550" start_date="2013-10-30" end_date="2013-11-03">
+      <venue id="0b919d8b-b97a-4549-a021-95dff524ea4d" name="Sheshan International GC" city="Shanghai" state="" zipcode="" country="China">
+        <course id="948b5293-06f5-4261-a419-50f1c0f9acd6" name="Sheshan International GC" yardage="7266" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="459"/>
+            <hole number="2" par="5" yardage="550"/>
+            <hole number="3" par="4" yardage="362"/>
+            <hole number="4" par="3" yardage="200"/>
+            <hole number="5" par="4" yardage="456"/>
+            <hole number="6" par="3" yardage="200"/>
+            <hole number="7" par="4" yardage="346"/>
+            <hole number="8" par="5" yardage="603"/>
+            <hole number="9" par="4" yardage="486"/>
+            <hole number="10" par="4" yardage="401"/>
+            <hole number="11" par="4" yardage="456"/>
+            <hole number="12" par="3" yardage="217"/>
+            <hole number="13" par="4" yardage="411"/>
+            <hole number="14" par="5" yardage="594"/>
+            <hole number="15" par="4" yardage="487"/>
+            <hole number="16" par="4" yardage="288"/>
+            <hole number="17" par="3" yardage="212"/>
+            <hole number="18" par="5" yardage="538"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="f130507b-73b3-41a8-9d3b-93fbbd074bbd" name="The McGladrey Classic" event_type="stroke" purse="4200000.0" winning_share="720000.0" points="500" start_date="2013-11-07" end_date="2013-11-10">
+      <venue id="d9b80c1f-4a65-4c5e-8fa1-9e8d7d7477bf" name="Seaside Course" city="Sea Island" state="Georgia" zipcode="" country="USA">
+        <course id="579d771a-f6a7-436b-8caa-5e68e527c636" name="Seaside at Sea Island Golf Club" yardage="7005" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="417"/>
+            <hole number="2" par="4" yardage="415"/>
+            <hole number="3" par="3" yardage="204"/>
+            <hole number="4" par="4" yardage="429"/>
+            <hole number="5" par="4" yardage="409"/>
+            <hole number="6" par="3" yardage="179"/>
+            <hole number="7" par="5" yardage="582"/>
+            <hole number="8" par="4" yardage="368"/>
+            <hole number="9" par="4" yardage="452"/>
+            <hole number="10" par="4" yardage="418"/>
+            <hole number="11" par="4" yardage="425"/>
+            <hole number="12" par="3" yardage="223"/>
+            <hole number="13" par="4" yardage="408"/>
+            <hole number="14" par="4" yardage="442"/>
+            <hole number="15" par="5" yardage="565"/>
+            <hole number="16" par="4" yardage="407"/>
+            <hole number="17" par="3" yardage="192"/>
+            <hole number="18" par="4" yardage="470"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="55dcc891-b38e-4fde-acf6-69e811983af1" name="OHL Classic at Mayakoba" event_type="stroke" purse="6000000.0" winning_share="1080000.0" points="500" start_date="2013-11-14" end_date="2013-11-17">
+      <venue id="8ab742a1-7cc9-49fa-a7c7-78aa172e34c8" name="El Camaleon GC at the Mayakoba Resort" city="Playa del Carmen" state="" zipcode="" country="Mexico">
+        <course id="915f4687-4b2a-4c90-9ed8-a9fefc3b8765" name="El Camaleon Golf Club" yardage="6981" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="5" yardage="554"/>
+            <hole number="2" par="3" yardage="151"/>
+            <hole number="3" par="4" yardage="462"/>
+            <hole number="4" par="4" yardage="438"/>
+            <hole number="5" par="4" yardage="428"/>
+            <hole number="6" par="4" yardage="389"/>
+            <hole number="7" par="3" yardage="116"/>
+            <hole number="8" par="5" yardage="554"/>
+            <hole number="9" par="4" yardage="416"/>
+            <hole number="10" par="3" yardage="200"/>
+            <hole number="11" par="4" yardage="360"/>
+            <hole number="12" par="4" yardage="451"/>
+            <hole number="13" par="5" yardage="532"/>
+            <hole number="14" par="4" yardage="452"/>
+            <hole number="15" par="3" yardage="155"/>
+            <hole number="16" par="4" yardage="485"/>
+            <hole number="17" par="4" yardage="386"/>
+            <hole number="18" par="4" yardage="452"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="5b409692-e9ed-486e-8d77-7d734f1e023d" name="Hyundai Tournament of Champions" event_type="stroke" winning_share="1140000.0" points="500" start_date="2014-01-03" end_date="2014-01-06">
+      <venue id="4e353af5-a1dd-4118-963d-24ef08393155" name="Plantation Course at Kapalua" city="Kapalua" state="Maui" zipcode="" country="USA">
+        <course id="f14b3a94-b487-448d-bb1c-a4a77aa4523d" name="The Plantation Course at Kapalua Resort" yardage="7411" par="73">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="520"/>
+            <hole number="2" par="3" yardage="218"/>
+            <hole number="3" par="4" yardage="380"/>
+            <hole number="4" par="4" yardage="382"/>
+            <hole number="5" par="5" yardage="532"/>
+            <hole number="6" par="4" yardage="398"/>
+            <hole number="7" par="4" yardage="516"/>
+            <hole number="8" par="3" yardage="203"/>
+            <hole number="9" par="5" yardage="521"/>
+            <hole number="10" par="4" yardage="354"/>
+            <hole number="11" par="3" yardage="164"/>
+            <hole number="12" par="4" yardage="420"/>
+            <hole number="13" par="4" yardage="407"/>
+            <hole number="14" par="4" yardage="305"/>
+            <hole number="15" par="5" yardage="555"/>
+            <hole number="16" par="4" yardage="365"/>
+            <hole number="17" par="4" yardage="508"/>
+            <hole number="18" par="5" yardage="663"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="f7ca3304-cc94-4f69-94ea-ad6f88912561" name="Sony Open in Hawaii" event_type="stroke" purse="5600000.0" winning_share="1008000.0" points="500" start_date="2014-01-09" end_date="2014-01-12">
+      <venue id="f7b43eef-f5af-4555-ad7f-7d9c28c4dad9" name="Waialae CC" city="Honolulu" state="Hawaii" zipcode="" country="USA">
+        <course id="cd02a02e-1aa5-4cae-bf9b-0e30d045fc91" name="Waialae Country Club" yardage="7060" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="488"/>
+            <hole number="2" par="4" yardage="426"/>
+            <hole number="3" par="4" yardage="423"/>
+            <hole number="4" par="3" yardage="203"/>
+            <hole number="5" par="4" yardage="466"/>
+            <hole number="6" par="4" yardage="459"/>
+            <hole number="7" par="3" yardage="167"/>
+            <hole number="8" par="4" yardage="459"/>
+            <hole number="9" par="5" yardage="510"/>
+            <hole number="10" par="4" yardage="353"/>
+            <hole number="11" par="3" yardage="196"/>
+            <hole number="12" par="4" yardage="446"/>
+            <hole number="13" par="4" yardage="478"/>
+            <hole number="14" par="4" yardage="433"/>
+            <hole number="15" par="4" yardage="396"/>
+            <hole number="16" par="4" yardage="417"/>
+            <hole number="17" par="3" yardage="189"/>
+            <hole number="18" par="5" yardage="551"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="ce51aaca-3b1d-4e07-8852-7b1f73b51daa" name="Humana Challenge" event_type="stroke" purse="5700000.0" winning_share="1026000.0" points="500" start_date="2014-01-16" end_date="2014-01-19">
+      <venue id="d2f84a1e-c26a-4bdf-ab37-82401f82b4fa" name="PGA West" city="La Quinta" state="California" zipcode="" country="USA">
+        <course id="0daa2ca8-4d7e-4a52-b5ff-df36ee746ee7" name="Nicklaus Private at PGA WEST" yardage="6924" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="374"/>
+            <hole number="2" par="4" yardage="414"/>
+            <hole number="3" par="3" yardage="177"/>
+            <hole number="4" par="5" yardage="538"/>
+            <hole number="5" par="4" yardage="443"/>
+            <hole number="6" par="4" yardage="406"/>
+            <hole number="7" par="3" yardage="140"/>
+            <hole number="8" par="5" yardage="509"/>
+            <hole number="9" par="4" yardage="410"/>
+            <hole number="10" par="4" yardage="412"/>
+            <hole number="11" par="3" yardage="191"/>
+            <hole number="12" par="4" yardage="403"/>
+            <hole number="13" par="5" yardage="528"/>
+            <hole number="14" par="4" yardage="375"/>
+            <hole number="15" par="4" yardage="415"/>
+            <hole number="16" par="5" yardage="530"/>
+            <hole number="17" par="3" yardage="204"/>
+            <hole number="18" par="4" yardage="455"/>
+          </holes>
+        </course>
+        <course id="9ae6f76e-4c36-474e-b406-11b9d23857ef" name="PGA WEST" yardage="6950" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="426"/>
+            <hole number="2" par="5" yardage="514"/>
+            <hole number="3" par="3" yardage="180"/>
+            <hole number="4" par="4" yardage="396"/>
+            <hole number="5" par="3" yardage="233"/>
+            <hole number="6" par="5" yardage="562"/>
+            <hole number="7" par="4" yardage="439"/>
+            <hole number="8" par="4" yardage="358"/>
+            <hole number="9" par="4" yardage="461"/>
+            <hole number="10" par="4" yardage="453"/>
+            <hole number="11" par="5" yardage="512"/>
+            <hole number="12" par="3" yardage="207"/>
+            <hole number="13" par="4" yardage="447"/>
+            <hole number="14" par="5" yardage="569"/>
+            <hole number="15" par="3" yardage="156"/>
+            <hole number="16" par="4" yardage="364"/>
+            <hole number="17" par="3" yardage="130"/>
+            <hole number="18" par="5" yardage="543"/>
+          </holes>
+        </course>
+        <course id="b0beca73-9ad2-45ca-81b5-56ac564615d3" name="La Quinta Country Club" yardage="7060" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="382"/>
+            <hole number="2" par="4" yardage="434"/>
+            <hole number="3" par="3" yardage="202"/>
+            <hole number="4" par="4" yardage="384"/>
+            <hole number="5" par="5" yardage="516"/>
+            <hole number="6" par="5" yardage="527"/>
+            <hole number="7" par="3" yardage="168"/>
+            <hole number="8" par="4" yardage="389"/>
+            <hole number="9" par="4" yardage="399"/>
+            <hole number="10" par="4" yardage="405"/>
+            <hole number="11" par="5" yardage="543"/>
+            <hole number="12" par="3" yardage="202"/>
+            <hole number="13" par="5" yardage="547"/>
+            <hole number="14" par="4" yardage="469"/>
+            <hole number="15" par="3" yardage="206"/>
+            <hole number="16" par="4" yardage="454"/>
+            <hole number="17" par="4" yardage="421"/>
+            <hole number="18" par="4" yardage="412"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="e2f17f74-61e5-44ca-9823-205cc29d56c1" name="Farmers Insurance Open" event_type="stroke" purse="6100000.0" winning_share="1098000.0" points="500" start_date="2014-01-23" end_date="2014-01-26">
+      <venue id="1c12ad8a-336e-40a6-90bb-50b86321c0f9" name="Torrey Pines" city="La Jolla" state="California" zipcode="" country="USA">
+        <course id="5401065a-a685-4aeb-a9d7-602d9a3690d0" name="TORREY PINES - SOUTH" yardage="7569" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="452"/>
+            <hole number="2" par="4" yardage="387"/>
+            <hole number="3" par="3" yardage="198"/>
+            <hole number="4" par="4" yardage="471"/>
+            <hole number="5" par="4" yardage="453"/>
+            <hole number="6" par="5" yardage="560"/>
+            <hole number="7" par="4" yardage="462"/>
+            <hole number="8" par="3" yardage="176"/>
+            <hole number="9" par="5" yardage="613"/>
+            <hole number="10" par="4" yardage="405"/>
+            <hole number="11" par="3" yardage="221"/>
+            <hole number="12" par="4" yardage="477"/>
+            <hole number="13" par="5" yardage="541"/>
+            <hole number="14" par="4" yardage="435"/>
+            <hole number="15" par="4" yardage="477"/>
+            <hole number="16" par="3" yardage="227"/>
+            <hole number="17" par="4" yardage="442"/>
+            <hole number="18" par="5" yardage="572"/>
+          </holes>
+        </course>
+        <course id="9034c516-80ec-4670-9345-ed8a6b29904b" name="TORREY PINES - NORTH" yardage="6874" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="5" yardage="520"/>
+            <hole number="2" par="4" yardage="326"/>
+            <hole number="3" par="3" yardage="121"/>
+            <hole number="4" par="4" yardage="429"/>
+            <hole number="5" par="4" yardage="412"/>
+            <hole number="6" par="3" yardage="206"/>
+            <hole number="7" par="4" yardage="400"/>
+            <hole number="8" par="4" yardage="436"/>
+            <hole number="9" par="5" yardage="548"/>
+            <hole number="10" par="4" yardage="416"/>
+            <hole number="11" par="4" yardage="467"/>
+            <hole number="12" par="3" yardage="190"/>
+            <hole number="13" par="4" yardage="469"/>
+            <hole number="14" par="5" yardage="507"/>
+            <hole number="15" par="4" yardage="397"/>
+            <hole number="16" par="4" yardage="338"/>
+            <hole number="17" par="3" yardage="172"/>
+            <hole number="18" par="5" yardage="520"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="bec904c4-b2a3-4eba-a2bc-335aca680a40" name="Waste Management Phoenix Open" event_type="stroke" purse="6200000.0" winning_share="1116000.0" points="500" start_date="2014-01-30" end_date="2014-02-02">
+      <venue id="6fe9c022-1950-4554-bb26-30f3ca4d7795" name="TPC Scottsdale" city="Scottsdale" state="Arizona" zipcode="" country="USA">
+        <course id="0cb81277-553c-4da0-9d25-255ea368f9ac" name="TPC Scottsdale" yardage="7216" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="410"/>
+            <hole number="2" par="4" yardage="416"/>
+            <hole number="3" par="5" yardage="554"/>
+            <hole number="4" par="3" yardage="175"/>
+            <hole number="5" par="4" yardage="453"/>
+            <hole number="6" par="4" yardage="431"/>
+            <hole number="7" par="3" yardage="215"/>
+            <hole number="8" par="4" yardage="470"/>
+            <hole number="9" par="4" yardage="464"/>
+            <hole number="10" par="4" yardage="403"/>
+            <hole number="11" par="4" yardage="469"/>
+            <hole number="12" par="3" yardage="195"/>
+            <hole number="13" par="5" yardage="595"/>
+            <hole number="14" par="4" yardage="476"/>
+            <hole number="15" par="5" yardage="558"/>
+            <hole number="16" par="3" yardage="162"/>
+            <hole number="17" par="4" yardage="332"/>
+            <hole number="18" par="4" yardage="438"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="7c3f9691-2949-4401-a834-feb85f218bc3" name="AT&amp;T Pebble Beach National Pro-Am" event_type="stroke" purse="6600000.0" winning_share="1188000.0" points="500" start_date="2014-02-06" end_date="2014-02-09">
+      <venue id="da323e92-6ff1-4f03-8974-4d5b3bf1e357" name="Pebble Beach Golf Links" city="Pebble Beach" state="California" zipcode="" country="USA">
+        <course id="283cfbf1-86f7-4de4-8749-d02a40383e35" name="Spyglass Hill Golf Course" yardage="6858" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="5" yardage="595"/>
+            <hole number="2" par="4" yardage="349"/>
+            <hole number="3" par="3" yardage="152"/>
+            <hole number="4" par="4" yardage="370"/>
+            <hole number="5" par="3" yardage="183"/>
+            <hole number="6" par="4" yardage="416"/>
+            <hole number="7" par="5" yardage="529"/>
+            <hole number="8" par="4" yardage="399"/>
+            <hole number="9" par="4" yardage="431"/>
+            <hole number="10" par="4" yardage="407"/>
+            <hole number="11" par="5" yardage="528"/>
+            <hole number="12" par="3" yardage="178"/>
+            <hole number="13" par="4" yardage="441"/>
+            <hole number="14" par="5" yardage="560"/>
+            <hole number="15" par="3" yardage="125"/>
+            <hole number="16" par="4" yardage="462"/>
+            <hole number="17" par="4" yardage="325"/>
+            <hole number="18" par="4" yardage="408"/>
+          </holes>
+        </course>
+        <course id="32700de7-18b8-41a2-80fd-28d5ee44a48b" name="Monterey Peninsula Shore Course" yardage="6838" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="454"/>
+            <hole number="2" par="4" yardage="391"/>
+            <hole number="3" par="3" yardage="155"/>
+            <hole number="4" par="4" yardage="401"/>
+            <hole number="5" par="4" yardage="349"/>
+            <hole number="6" par="5" yardage="548"/>
+            <hole number="7" par="3" yardage="226"/>
+            <hole number="8" par="4" yardage="454"/>
+            <hole number="9" par="3" yardage="224"/>
+            <hole number="10" par="5" yardage="544"/>
+            <hole number="11" par="3" yardage="176"/>
+            <hole number="12" par="5" yardage="599"/>
+            <hole number="13" par="4" yardage="401"/>
+            <hole number="14" par="3" yardage="190"/>
+            <hole number="15" par="4" yardage="415"/>
+            <hole number="16" par="4" yardage="500"/>
+            <hole number="17" par="4" yardage="430"/>
+            <hole number="18" par="4" yardage="381"/>
+          </holes>
+        </course>
+        <course id="62adb452-8f11-4c5f-b672-7ac014ee4028" name="Pebble Beach Golf Links" yardage="6816" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="381"/>
+            <hole number="2" par="5" yardage="502"/>
+            <hole number="3" par="4" yardage="390"/>
+            <hole number="4" par="4" yardage="331"/>
+            <hole number="5" par="3" yardage="188"/>
+            <hole number="6" par="5" yardage="513"/>
+            <hole number="7" par="3" yardage="106"/>
+            <hole number="8" par="4" yardage="418"/>
+            <hole number="9" par="4" yardage="466"/>
+            <hole number="10" par="4" yardage="446"/>
+            <hole number="11" par="4" yardage="380"/>
+            <hole number="12" par="3" yardage="202"/>
+            <hole number="13" par="4" yardage="399"/>
+            <hole number="14" par="5" yardage="573"/>
+            <hole number="15" par="4" yardage="397"/>
+            <hole number="16" par="4" yardage="403"/>
+            <hole number="17" par="3" yardage="178"/>
+            <hole number="18" par="5" yardage="543"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="83003d44-a418-4254-9fd0-02273f2ef012" name="Northern Trust Open" event_type="stroke" purse="6700000.0" winning_share="1206000.0" points="500" start_date="2014-02-13" end_date="2014-02-16">
+      <venue id="1e7b6f24-0d85-4a5f-9b83-6a897d8b49f8" name="Riviera CC" city="Pacific Palisades" state="California" zipcode="" country="USA">
+        <course id="be255eca-06ff-42c0-9c51-fe39810dd6c3" name="Riviera Country Club" yardage="7322" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="5" yardage="503"/>
+            <hole number="2" par="4" yardage="471"/>
+            <hole number="3" par="4" yardage="434"/>
+            <hole number="4" par="3" yardage="236"/>
+            <hole number="5" par="4" yardage="434"/>
+            <hole number="6" par="3" yardage="199"/>
+            <hole number="7" par="4" yardage="408"/>
+            <hole number="8" par="4" yardage="433"/>
+            <hole number="9" par="4" yardage="458"/>
+            <hole number="10" par="4" yardage="315"/>
+            <hole number="11" par="5" yardage="583"/>
+            <hole number="12" par="4" yardage="479"/>
+            <hole number="13" par="4" yardage="459"/>
+            <hole number="14" par="3" yardage="192"/>
+            <hole number="15" par="4" yardage="487"/>
+            <hole number="16" par="3" yardage="166"/>
+            <hole number="17" par="5" yardage="590"/>
+            <hole number="18" par="4" yardage="475"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="99cc6042-cc0d-4087-8d33-030ce0f2e11e" name="WGC Accenture Match Play Championship" event_type="match" purse="9000000.0" winning_share="1530000.0" points="550" start_date="2014-02-19" end_date="2014-02-23">
+      <venue id="58cf9b4d-ee71-450b-b54c-ec730fe4c2d8" name="The GC at Dove Mountain" city="Marana" state="Arizona" zipcode="" country="USA">
+        <course id="7b21a514-c1de-4292-a396-88398d62cb9c" name="The Golf Club at Dove Mountain" yardage="7791" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="460"/>
+            <hole number="2" par="5" yardage="574"/>
+            <hole number="3" par="3" yardage="208"/>
+            <hole number="4" par="4" yardage="393"/>
+            <hole number="5" par="4" yardage="536"/>
+            <hole number="6" par="3" yardage="185"/>
+            <hole number="7" par="4" yardage="486"/>
+            <hole number="8" par="5" yardage="576"/>
+            <hole number="9" par="4" yardage="476"/>
+            <hole number="10" par="4" yardage="493"/>
+            <hole number="11" par="5" yardage="601"/>
+            <hole number="12" par="3" yardage="219"/>
+            <hole number="13" par="5" yardage="583"/>
+            <hole number="14" par="4" yardage="449"/>
+            <hole number="15" par="4" yardage="343"/>
+            <hole number="16" par="3" yardage="247"/>
+            <hole number="17" par="4" yardage="482"/>
+            <hole number="18" par="4" yardage="480"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="ff0e9d9b-f38f-4448-b493-ea27cf0c6e18" name="The Honda Classic" event_type="stroke" purse="6000000.0" winning_share="1080000.0" points="500" start_date="2014-02-27" end_date="2014-03-02">
+      <venue id="428592ba-b0e9-4de3-b90c-59e08a52359a" name="PGA National Champion Course" city="Palm Beach Gardens" state="Florida" zipcode="" country="USA">
+        <course id="2201087a-14c9-46b7-ac5e-8b9059c3d030" name="PGA National Golf Club Champion Course" yardage="7241" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="365"/>
+            <hole number="2" par="4" yardage="464"/>
+            <hole number="3" par="5" yardage="538"/>
+            <hole number="4" par="4" yardage="376"/>
+            <hole number="5" par="3" yardage="217"/>
+            <hole number="6" par="4" yardage="488"/>
+            <hole number="7" par="3" yardage="226"/>
+            <hole number="8" par="4" yardage="455"/>
+            <hole number="9" par="4" yardage="421"/>
+            <hole number="10" par="4" yardage="525"/>
+            <hole number="11" par="4" yardage="479"/>
+            <hole number="12" par="4" yardage="427"/>
+            <hole number="13" par="4" yardage="388"/>
+            <hole number="14" par="4" yardage="465"/>
+            <hole number="15" par="3" yardage="179"/>
+            <hole number="16" par="4" yardage="434"/>
+            <hole number="17" par="3" yardage="190"/>
+            <hole number="18" par="5" yardage="604"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="4867aac6-186a-4508-9c57-69a468e1167f" name="WGC Cadillac Championship" event_type="stroke" winning_share="1500000.0" points="550" start_date="2014-03-06" end_date="2014-03-09">
+      <venue id="a117cece-c3d9-43f7-8677-c7ce663c5bcf" name="The Doral Golf Resort &amp; Spa" city="Miami" state="Florida" zipcode="" country="USA">
+        <course id="e18835da-5dcb-4735-91d4-2ed788f55e56" name="The TPC Blue Monster at Doral" yardage="7288" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="5" yardage="529"/>
+            <hole number="2" par="4" yardage="376"/>
+            <hole number="3" par="4" yardage="438"/>
+            <hole number="4" par="3" yardage="236"/>
+            <hole number="5" par="4" yardage="394"/>
+            <hole number="6" par="4" yardage="442"/>
+            <hole number="7" par="4" yardage="428"/>
+            <hole number="8" par="5" yardage="563"/>
+            <hole number="9" par="3" yardage="169"/>
+            <hole number="10" par="5" yardage="551"/>
+            <hole number="11" par="4" yardage="406"/>
+            <hole number="12" par="5" yardage="603"/>
+            <hole number="13" par="3" yardage="245"/>
+            <hole number="14" par="4" yardage="475"/>
+            <hole number="15" par="3" yardage="175"/>
+            <hole number="16" par="4" yardage="372"/>
+            <hole number="17" par="4" yardage="419"/>
+            <hole number="18" par="4" yardage="467"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="dd5dc8a7-8187-4095-8703-20161cb1b8c3" name="Puerto Rico Open" event_type="stroke" purse="3500000.0" winning_share="630000.0" points="300" start_date="2014-03-06" end_date="2014-03-09">
+      <venue id="18f915ac-eca6-469b-8ecc-26fc1fdd6a85" name="Trump Intrntl GC - Puerto Rico" city="Rio Grande" state="" zipcode="" country="Puerto Rico">
+        <course id="739cbeeb-687f-40da-96c1-5aab36eb6052" name="Trump International Golf Club - Puerto Rico" yardage="7569" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="474"/>
+            <hole number="2" par="5" yardage="547"/>
+            <hole number="3" par="4" yardage="386"/>
+            <hole number="4" par="4" yardage="455"/>
+            <hole number="5" par="5" yardage="535"/>
+            <hole number="6" par="3" yardage="203"/>
+            <hole number="7" par="4" yardage="448"/>
+            <hole number="8" par="3" yardage="236"/>
+            <hole number="9" par="4" yardage="455"/>
+            <hole number="10" par="4" yardage="430"/>
+            <hole number="11" par="3" yardage="192"/>
+            <hole number="12" par="4" yardage="490"/>
+            <hole number="13" par="4" yardage="416"/>
+            <hole number="14" par="4" yardage="459"/>
+            <hole number="15" par="5" yardage="600"/>
+            <hole number="16" par="3" yardage="202"/>
+            <hole number="17" par="4" yardage="411"/>
+            <hole number="18" par="5" yardage="630"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="75ae19c7-7d23-4259-91d6-bbc53553e817" name="Valspar Championship" event_type="stroke" purse="5700000.0" winning_share="1026000.0" points="500" start_date="2014-03-13" end_date="2014-03-16">
+      <venue id="8d19b0fa-82e1-4352-b0f9-cab16c3f33c4" name="Innisbrook Resort - Copperhead" city="Palm Harbor" state="Florida" zipcode="" country="USA">
+        <course id="2a19cbb1-9781-42a8-9263-b26eded156f5" name="Innisbrook, A Salamander Golf and Spa Resort - Copperhead" yardage="7295" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="5" yardage="560"/>
+            <hole number="2" par="4" yardage="435"/>
+            <hole number="3" par="4" yardage="455"/>
+            <hole number="4" par="3" yardage="195"/>
+            <hole number="5" par="5" yardage="605"/>
+            <hole number="6" par="4" yardage="465"/>
+            <hole number="7" par="4" yardage="420"/>
+            <hole number="8" par="3" yardage="235"/>
+            <hole number="9" par="4" yardage="425"/>
+            <hole number="10" par="4" yardage="445"/>
+            <hole number="11" par="5" yardage="575"/>
+            <hole number="12" par="4" yardage="380"/>
+            <hole number="13" par="3" yardage="175"/>
+            <hole number="14" par="5" yardage="590"/>
+            <hole number="15" par="3" yardage="215"/>
+            <hole number="16" par="4" yardage="460"/>
+            <hole number="17" par="3" yardage="215"/>
+            <hole number="18" par="4" yardage="445"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="fb4d6357-a3f7-43e4-ad58-c693a7e8092d" name="Arnold Palmer Invitational presented by MasterCard" event_type="stroke" purse="6200000.0" winning_share="1116000.0" points="500" start_date="2014-03-20" end_date="2014-03-23">
+      <venue id="a7a4a2f3-ae79-440f-bf08-7e3399310ba0" name="Bay Hill Club &amp; Lodge" city="Orlando" state="Florida" zipcode="" country="USA">
+        <course id="3dfbe47c-04ec-4cc3-9dd9-30626669e6ea" name="Bay Hill Club" yardage="7381" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="461"/>
+            <hole number="2" par="3" yardage="231"/>
+            <hole number="3" par="4" yardage="434"/>
+            <hole number="4" par="5" yardage="561"/>
+            <hole number="5" par="4" yardage="390"/>
+            <hole number="6" par="5" yardage="555"/>
+            <hole number="7" par="3" yardage="199"/>
+            <hole number="8" par="4" yardage="460"/>
+            <hole number="9" par="4" yardage="474"/>
+            <hole number="10" par="4" yardage="400"/>
+            <hole number="11" par="4" yardage="438"/>
+            <hole number="12" par="5" yardage="574"/>
+            <hole number="13" par="4" yardage="370"/>
+            <hole number="14" par="3" yardage="215"/>
+            <hole number="15" par="4" yardage="429"/>
+            <hole number="16" par="5" yardage="511"/>
+            <hole number="17" par="3" yardage="221"/>
+            <hole number="18" par="4" yardage="458"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="c213437c-9abd-484d-82d7-ad6d6c4b9cbe" name="Valero Texas Open" event_type="stroke" purse="6200000.0" winning_share="1116000.0" points="500" start_date="2014-03-27" end_date="2014-03-30">
+      <venue id="2e58291c-c9c9-4cf0-ae93-740143de17ff" name="TPC San Antonio" city="San Antonio" state="Texas" zipcode="" country="USA">
+        <course id="f68d4dd5-bcc6-4351-8d4b-63b8f3d341c7" name="TPC San Antonio" yardage="7435" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="454"/>
+            <hole number="2" par="5" yardage="602"/>
+            <hole number="3" par="3" yardage="213"/>
+            <hole number="4" par="4" yardage="481"/>
+            <hole number="5" par="4" yardage="342"/>
+            <hole number="6" par="4" yardage="403"/>
+            <hole number="7" par="3" yardage="207"/>
+            <hole number="8" par="5" yardage="604"/>
+            <hole number="9" par="4" yardage="474"/>
+            <hole number="10" par="4" yardage="447"/>
+            <hole number="11" par="4" yardage="405"/>
+            <hole number="12" par="4" yardage="410"/>
+            <hole number="13" par="3" yardage="241"/>
+            <hole number="14" par="5" yardage="567"/>
+            <hole number="15" par="4" yardage="464"/>
+            <hole number="16" par="3" yardage="183"/>
+            <hole number="17" par="4" yardage="347"/>
+            <hole number="18" par="5" yardage="591"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="987242fe-8425-4765-9782-54f1ff26f2b8" name="Shell Houston Open" event_type="stroke" purse="6400000.0" winning_share="1152000.0" points="500" start_date="2014-04-03" end_date="2014-04-06">
+      <venue id="614fa208-b1bc-4278-8da1-deb6ff84bca2" name="Golf Club of Houston" city="Humble" state="Texas" zipcode="" country="USA">
+        <course id="16081dbc-e865-4b9d-a7cc-f28580806bc1" name="Golf Club of Houston Tournament Course" yardage="7457" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="397"/>
+            <hole number="2" par="4" yardage="429"/>
+            <hole number="3" par="4" yardage="398"/>
+            <hole number="4" par="5" yardage="566"/>
+            <hole number="5" par="4" yardage="480"/>
+            <hole number="6" par="4" yardage="464"/>
+            <hole number="7" par="3" yardage="174"/>
+            <hole number="8" par="5" yardage="557"/>
+            <hole number="9" par="3" yardage="238"/>
+            <hole number="10" par="4" yardage="380"/>
+            <hole number="11" par="4" yardage="441"/>
+            <hole number="12" par="4" yardage="338"/>
+            <hole number="13" par="5" yardage="590"/>
+            <hole number="14" par="3" yardage="216"/>
+            <hole number="15" par="5" yardage="608"/>
+            <hole number="16" par="3" yardage="204"/>
+            <hole number="17" par="4" yardage="489"/>
+            <hole number="18" par="4" yardage="488"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="a42bd0ff-4fdf-4eee-8ded-ab2e05a54fa6" name="The Masters" event_type="stroke" purse="8000000.0" winning_share="1440000.0" points="600" start_date="2014-04-10" end_date="2014-04-13">
+      <venue id="d555598a-aed0-44fe-b659-4250264c7820" name="Augusta National Golf Club" city="Atlanta" state="GA" zipcode="" country="USA">
+        <course id="7e9462a5-66ea-4205-b37a-81884e3653cf" name="Augusta National" yardage="7435" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="445"/>
+            <hole number="2" par="5" yardage="575"/>
+            <hole number="3" par="4" yardage="350"/>
+            <hole number="4" par="3" yardage="240"/>
+            <hole number="5" par="4" yardage="455"/>
+            <hole number="6" par="3" yardage="180"/>
+            <hole number="7" par="4" yardage="450"/>
+            <hole number="8" par="5" yardage="570"/>
+            <hole number="9" par="4" yardage="460"/>
+            <hole number="10" par="4" yardage="495"/>
+            <hole number="11" par="4" yardage="505"/>
+            <hole number="12" par="3" yardage="155"/>
+            <hole number="13" par="5" yardage="510"/>
+            <hole number="14" par="4" yardage="440"/>
+            <hole number="15" par="5" yardage="530"/>
+            <hole number="16" par="3" yardage="170"/>
+            <hole number="17" par="4" yardage="440"/>
+            <hole number="18" par="4" yardage="465"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="9e396310-118a-405e-b409-3a1e1ede4c64" name="RBC Heritage" event_type="stroke" purse="5800000.0" winning_share="1044000.0" points="500" start_date="2014-04-17" end_date="2014-04-20">
+      <venue id="ee09c489-2547-416a-b491-c4233a707e99" name="Harbour Town Golf Links" city="Hilton Head" state="South Carolina" zipcode="" country="USA">
+        <course id="46cecf1d-502f-43d0-992a-06f4e2057939" name="Harbour Town Golf Links" yardage="7101" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="410"/>
+            <hole number="2" par="5" yardage="502"/>
+            <hole number="3" par="4" yardage="469"/>
+            <hole number="4" par="3" yardage="200"/>
+            <hole number="5" par="5" yardage="540"/>
+            <hole number="6" par="4" yardage="419"/>
+            <hole number="7" par="3" yardage="195"/>
+            <hole number="8" par="4" yardage="473"/>
+            <hole number="9" par="4" yardage="332"/>
+            <hole number="10" par="4" yardage="451"/>
+            <hole number="11" par="4" yardage="436"/>
+            <hole number="12" par="4" yardage="430"/>
+            <hole number="13" par="4" yardage="373"/>
+            <hole number="14" par="3" yardage="192"/>
+            <hole number="15" par="5" yardage="588"/>
+            <hole number="16" par="4" yardage="434"/>
+            <hole number="17" par="3" yardage="185"/>
+            <hole number="18" par="4" yardage="472"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="40e81e73-d03e-4723-b4ed-a5a0611efbd4" name="Zurich Classic of New Orleans" event_type="stroke" purse="6800000.0" winning_share="1224000.0" points="500" start_date="2014-04-24" end_date="2014-04-27">
+      <venue id="b02d89e8-7357-4a6f-b077-fe770ef10541" name="TPC Louisiana" city="Avondale" state="Louisiana" zipcode="" country="USA">
+        <course id="44b11307-df56-4478-a439-7cbc659144a0" name="TPC Louisiana" yardage="7341" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="391"/>
+            <hole number="2" par="5" yardage="548"/>
+            <hole number="3" par="3" yardage="221"/>
+            <hole number="4" par="4" yardage="482"/>
+            <hole number="5" par="4" yardage="428"/>
+            <hole number="6" par="4" yardage="476"/>
+            <hole number="7" par="5" yardage="561"/>
+            <hole number="8" par="4" yardage="372"/>
+            <hole number="9" par="3" yardage="210"/>
+            <hole number="10" par="4" yardage="390"/>
+            <hole number="11" par="5" yardage="575"/>
+            <hole number="12" par="4" yardage="486"/>
+            <hole number="13" par="4" yardage="377"/>
+            <hole number="14" par="3" yardage="192"/>
+            <hole number="15" par="4" yardage="480"/>
+            <hole number="16" par="4" yardage="348"/>
+            <hole number="17" par="3" yardage="215"/>
+            <hole number="18" par="5" yardage="589"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="d0cc2e22-e68a-4a10-8cca-fe220af02c93" name="Wells Fargo Championship" event_type="stroke" purse="6900000.0" winning_share="1242000.0" points="500" start_date="2014-05-01" end_date="2014-05-04">
+      <venue id="bb66b3fb-7248-47d5-ade5-291c704c040c" name="Quail Hollow Club" city="Charlotte" state="North Carolina" zipcode="" country="USA">
+        <course id="100b2a95-74d6-4fd8-8089-7a743481949f" name="Quail Hollow Club" yardage="7471" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="410"/>
+            <hole number="2" par="3" yardage="178"/>
+            <hole number="3" par="4" yardage="452"/>
+            <hole number="4" par="4" yardage="489"/>
+            <hole number="5" par="5" yardage="570"/>
+            <hole number="6" par="3" yardage="250"/>
+            <hole number="7" par="5" yardage="532"/>
+            <hole number="8" par="4" yardage="343"/>
+            <hole number="9" par="4" yardage="491"/>
+            <hole number="10" par="5" yardage="591"/>
+            <hole number="11" par="4" yardage="421"/>
+            <hole number="12" par="4" yardage="456"/>
+            <hole number="13" par="3" yardage="201"/>
+            <hole number="14" par="4" yardage="346"/>
+            <hole number="15" par="5" yardage="566"/>
+            <hole number="16" par="4" yardage="480"/>
+            <hole number="17" par="3" yardage="217"/>
+            <hole number="18" par="4" yardage="478"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="b9ed6175-a6db-42b9-9559-06e05cfda0b6" name="THE PLAYERS Championship" event_type="stroke" purse="10000000.0" winning_share="1710000.0" points="600" start_date="2014-05-08" end_date="2014-05-11">
+      <venue id="620c31de-da4c-4a68-9659-155d4be520db" name="TPC Sawgrass" city="Ponte Vedra Beach" state="Florida" zipcode="" country="United States">
+        <course id="91d909cc-bd5e-4905-9ab8-533c62d4405a" name="TPC Sawgrass" yardage="7093" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="392"/>
+            <hole number="2" par="5" yardage="532"/>
+            <hole number="3" par="3" yardage="177"/>
+            <hole number="4" par="4" yardage="384"/>
+            <hole number="5" par="4" yardage="466"/>
+            <hole number="6" par="4" yardage="393"/>
+            <hole number="7" par="4" yardage="442"/>
+            <hole number="8" par="3" yardage="219"/>
+            <hole number="9" par="5" yardage="583"/>
+            <hole number="10" par="4" yardage="424"/>
+            <hole number="11" par="5" yardage="535"/>
+            <hole number="12" par="4" yardage="358"/>
+            <hole number="13" par="3" yardage="181"/>
+            <hole number="14" par="4" yardage="467"/>
+            <hole number="15" par="4" yardage="449"/>
+            <hole number="16" par="5" yardage="507"/>
+            <hole number="17" par="3" yardage="137"/>
+            <hole number="18" par="4" yardage="447"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="e245b5f3-ad2a-477e-bf04-6f6e8df5b060" name="HP Byron Nelson Championship" event_type="stroke" purse="6900000.0" winning_share="1242000.0" points="500" start_date="2014-05-15" end_date="2014-05-18">
+      <venue id="01cb6bb7-4f54-428c-a4c7-f172fbcde91f" name="TPC Four Seasons Resort" city="Irving" state="Texas" zipcode="" country="USA">
+        <course id="6f313aa9-936f-4c36-85e8-5396646fecbb" name="TPC Four Seasons" yardage="7166" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="458"/>
+            <hole number="2" par="3" yardage="221"/>
+            <hole number="3" par="4" yardage="528"/>
+            <hole number="4" par="4" yardage="431"/>
+            <hole number="5" par="3" yardage="174"/>
+            <hole number="6" par="4" yardage="448"/>
+            <hole number="7" par="5" yardage="542"/>
+            <hole number="8" par="4" yardage="461"/>
+            <hole number="9" par="4" yardage="427"/>
+            <hole number="10" par="4" yardage="435"/>
+            <hole number="11" par="4" yardage="323"/>
+            <hole number="12" par="4" yardage="455"/>
+            <hole number="13" par="3" yardage="180"/>
+            <hole number="14" par="4" yardage="406"/>
+            <hole number="15" par="4" yardage="504"/>
+            <hole number="16" par="5" yardage="546"/>
+            <hole number="17" par="3" yardage="198"/>
+            <hole number="18" par="4" yardage="429"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="414c1819-cb1f-4f1f-afaa-b0819bef0046" name="Crowne Plaza Invitational at Colonial" event_type="stroke" purse="6400000.0" winning_share="1152000.0" points="500" start_date="2014-05-22" end_date="2014-05-25">
+      <venue id="6c5fd917-3708-4560-bd3d-f7b060b13e93" name="Colonial CC" city="Fort Worth" state="Texas" zipcode="76109" country="USA">
+        <course id="756588be-366c-49ef-ae3c-bf129b785e2b" name="Colonial Country Club" yardage="7204" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="5" yardage="565"/>
+            <hole number="2" par="4" yardage="389"/>
+            <hole number="3" par="4" yardage="483"/>
+            <hole number="4" par="3" yardage="247"/>
+            <hole number="5" par="4" yardage="481"/>
+            <hole number="6" par="4" yardage="406"/>
+            <hole number="7" par="4" yardage="440"/>
+            <hole number="8" par="3" yardage="194"/>
+            <hole number="9" par="4" yardage="407"/>
+            <hole number="10" par="4" yardage="408"/>
+            <hole number="11" par="5" yardage="635"/>
+            <hole number="12" par="4" yardage="445"/>
+            <hole number="13" par="3" yardage="190"/>
+            <hole number="14" par="4" yardage="464"/>
+            <hole number="15" par="4" yardage="430"/>
+            <hole number="16" par="3" yardage="192"/>
+            <hole number="17" par="4" yardage="387"/>
+            <hole number="18" par="4" yardage="441"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="9399697a-4c04-4041-b4f7-526eefd5fafd" name="the Memorial Tournament" event_type="stroke" purse="6200000.0" winning_share="1116000.0" points="500" start_date="2014-05-29" end_date="2014-06-01">
+      <venue id="d2d453b2-c168-4936-acb6-d88f4d3ba430" name="Muirfield Village GC" city="Dublin" state="Ohio" zipcode="" country="USA">
+        <course id="0e29f01b-02bb-4e47-92a8-ce19db36242b" name="Muirfield Village Golf Club" yardage="7366" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="470"/>
+            <hole number="2" par="4" yardage="455"/>
+            <hole number="3" par="4" yardage="401"/>
+            <hole number="4" par="3" yardage="200"/>
+            <hole number="5" par="5" yardage="527"/>
+            <hole number="6" par="4" yardage="447"/>
+            <hole number="7" par="5" yardage="563"/>
+            <hole number="8" par="3" yardage="185"/>
+            <hole number="9" par="4" yardage="412"/>
+            <hole number="10" par="4" yardage="471"/>
+            <hole number="11" par="5" yardage="567"/>
+            <hole number="12" par="3" yardage="184"/>
+            <hole number="13" par="4" yardage="455"/>
+            <hole number="14" par="4" yardage="363"/>
+            <hole number="15" par="5" yardage="529"/>
+            <hole number="16" par="3" yardage="215"/>
+            <hole number="17" par="4" yardage="478"/>
+            <hole number="18" par="4" yardage="444"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="f50f67d1-9ad5-47ac-88a0-9204dccf695a" name="FedEx St. Jude Classic" event_type="stroke" purse="5800000.0" winning_share="1044000.0" points="500" start_date="2014-06-05" end_date="2014-06-08">
+      <venue id="db8fa94a-f48d-4341-a8bf-7980b0a8d51d" name="TPC Southwind" city="Memphis" state="Tennessee" zipcode="" country="USA">
+        <course id="1b8d7017-a5f5-4b8d-b658-5cd64fbd2e89" name="TPC Southwind" yardage="7244" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="434"/>
+            <hole number="2" par="4" yardage="401"/>
+            <hole number="3" par="5" yardage="554"/>
+            <hole number="4" par="3" yardage="196"/>
+            <hole number="5" par="4" yardage="485"/>
+            <hole number="6" par="4" yardage="445"/>
+            <hole number="7" par="4" yardage="482"/>
+            <hole number="8" par="3" yardage="178"/>
+            <hole number="9" par="4" yardage="457"/>
+            <hole number="10" par="4" yardage="465"/>
+            <hole number="11" par="3" yardage="162"/>
+            <hole number="12" par="4" yardage="406"/>
+            <hole number="13" par="4" yardage="472"/>
+            <hole number="14" par="3" yardage="239"/>
+            <hole number="15" par="4" yardage="395"/>
+            <hole number="16" par="5" yardage="530"/>
+            <hole number="17" par="4" yardage="490"/>
+            <hole number="18" par="4" yardage="453"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="e775a363-3abe-4a3d-ac05-847619ce4d6b" name="U.S. Open" event_type="stroke" purse="8000000.0" winning_share="1440000.0" points="600" start_date="2014-06-12" end_date="2014-06-15">
+      <venue id="40ee1efa-0bb1-4416-89ef-14e423990e0f" name="Pinehurst Resort &amp; Country Club" city="Pinehurst" state="North Carolina" zipcode="" country="USA">
+        <course id="734093fc-b4fe-4917-88f3-11b9bcafe984" name="Pinehurst No. 2" yardage="7495" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="406"/>
+            <hole number="2" par="4" yardage="503"/>
+            <hole number="3" par="4" yardage="389"/>
+            <hole number="4" par="5" yardage="569"/>
+            <hole number="5" par="4" yardage="476"/>
+            <hole number="6" par="3" yardage="223"/>
+            <hole number="7" par="4" yardage="429"/>
+            <hole number="8" par="4" yardage="490"/>
+            <hole number="9" par="3" yardage="190"/>
+            <hole number="10" par="5" yardage="619"/>
+            <hole number="11" par="4" yardage="486"/>
+            <hole number="12" par="4" yardage="451"/>
+            <hole number="13" par="4" yardage="385"/>
+            <hole number="14" par="4" yardage="479"/>
+            <hole number="15" par="3" yardage="205"/>
+            <hole number="16" par="4" yardage="534"/>
+            <hole number="17" par="3" yardage="208"/>
+            <hole number="18" par="4" yardage="453"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="d1b6aa4f-a358-446e-8fe1-4ba3458d509f" name="Travelers Championship" event_type="stroke" purse="6200000.0" winning_share="1116000.0" points="500" start_date="2014-06-19" end_date="2014-06-22">
+      <venue id="0d614dd2-da0e-47ab-b555-3d272e48fe25" name="TPC River Highlands" city="Cromwell" state="Connecticut" zipcode="" country="USA">
+        <course id="ad3e0860-dd6b-4cdc-87fb-16808c4e6cc8" name="TPC River Highlands" yardage="6820" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="434"/>
+            <hole number="2" par="4" yardage="341"/>
+            <hole number="3" par="4" yardage="431"/>
+            <hole number="4" par="4" yardage="460"/>
+            <hole number="5" par="3" yardage="223"/>
+            <hole number="6" par="5" yardage="574"/>
+            <hole number="7" par="4" yardage="443"/>
+            <hole number="8" par="3" yardage="202"/>
+            <hole number="9" par="4" yardage="406"/>
+            <hole number="10" par="4" yardage="462"/>
+            <hole number="11" par="3" yardage="158"/>
+            <hole number="12" par="4" yardage="411"/>
+            <hole number="13" par="5" yardage="523"/>
+            <hole number="14" par="4" yardage="421"/>
+            <hole number="15" par="4" yardage="296"/>
+            <hole number="16" par="3" yardage="171"/>
+            <hole number="17" par="4" yardage="420"/>
+            <hole number="18" par="4" yardage="444"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="0c0d9b20-dc49-447f-9ae8-1528affa9faf" name="Quicken Loans National" event_type="stroke" purse="6500000.0" winning_share="1170000.0" points="500" start_date="2014-06-26" end_date="2014-06-29">
+      <venue id="a635c76c-ddf4-4e4f-9f3f-8b1b585e2493" name="Congressional Country Club" city="Bethesda" state="Maryland" zipcode="" country="USA">
+        <course id="f718d464-858f-4d4c-acd0-e1d8107b291f" name="Congressional Country Club - Blue Course" yardage="7204" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="402"/>
+            <hole number="2" par="3" yardage="211"/>
+            <hole number="3" par="4" yardage="455"/>
+            <hole number="4" par="4" yardage="427"/>
+            <hole number="5" par="4" yardage="407"/>
+            <hole number="6" par="4" yardage="488"/>
+            <hole number="7" par="3" yardage="174"/>
+            <hole number="8" par="4" yardage="354"/>
+            <hole number="9" par="5" yardage="602"/>
+            <hole number="10" par="3" yardage="218"/>
+            <hole number="11" par="4" yardage="489"/>
+            <hole number="12" par="4" yardage="415"/>
+            <hole number="13" par="3" yardage="187"/>
+            <hole number="14" par="4" yardage="454"/>
+            <hole number="15" par="4" yardage="439"/>
+            <hole number="16" par="5" yardage="579"/>
+            <hole number="17" par="4" yardage="437"/>
+            <hole number="18" par="4" yardage="466"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="fdafd48b-81e2-47c4-9c88-74a851d2bd33" name="The Greenbrier Classic" event_type="stroke" purse="6500000.0" winning_share="1170000.0" points="500" start_date="2014-07-03" end_date="2014-07-06">
+      <venue id="5aa3b467-b61b-4b22-bc58-64c2cc13a2a9" name="The Old White TPC" city="White Sulphur Springs" state="West Virginia" zipcode="" country="USA">
+        <course id="2e9d8873-0317-42a4-b734-a86438717c41" name="The Old White" yardage="7274" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="449"/>
+            <hole number="2" par="4" yardage="488"/>
+            <hole number="3" par="3" yardage="205"/>
+            <hole number="4" par="4" yardage="427"/>
+            <hole number="5" par="4" yardage="388"/>
+            <hole number="6" par="4" yardage="471"/>
+            <hole number="7" par="4" yardage="430"/>
+            <hole number="8" par="3" yardage="234"/>
+            <hole number="9" par="4" yardage="404"/>
+            <hole number="10" par="4" yardage="385"/>
+            <hole number="11" par="4" yardage="493"/>
+            <hole number="12" par="5" yardage="568"/>
+            <hole number="13" par="4" yardage="492"/>
+            <hole number="14" par="4" yardage="401"/>
+            <hole number="15" par="3" yardage="217"/>
+            <hole number="16" par="4" yardage="444"/>
+            <hole number="17" par="5" yardage="616"/>
+            <hole number="18" par="3" yardage="162"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="e67e1aaf-ba8d-4094-a112-3bab683a51fa" name="John Deere Classic" event_type="stroke" purse="4700000.0" winning_share="846000.0" points="500" start_date="2014-07-10" end_date="2014-07-13">
+      <venue id="9400a9a0-f875-41f5-afb0-31953ff0cda2" name="TPC Deere Run" city="Silvis" state="Illinois" zipcode="" country="USA">
+        <course id="0afcd661-12bf-455e-88d9-a2c8ad0a170b" name="TPC Deere Run" yardage="7183" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="395"/>
+            <hole number="2" par="5" yardage="561"/>
+            <hole number="3" par="3" yardage="186"/>
+            <hole number="4" par="4" yardage="454"/>
+            <hole number="5" par="4" yardage="433"/>
+            <hole number="6" par="4" yardage="367"/>
+            <hole number="7" par="3" yardage="226"/>
+            <hole number="8" par="4" yardage="428"/>
+            <hole number="9" par="4" yardage="485"/>
+            <hole number="10" par="5" yardage="583"/>
+            <hole number="11" par="4" yardage="432"/>
+            <hole number="12" par="3" yardage="215"/>
+            <hole number="13" par="4" yardage="414"/>
+            <hole number="14" par="4" yardage="361"/>
+            <hole number="15" par="4" yardage="465"/>
+            <hole number="16" par="3" yardage="158"/>
+            <hole number="17" par="5" yardage="557"/>
+            <hole number="18" par="4" yardage="463"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="ec7c4e8b-0215-44d5-8aba-a1911c7e2fc7" name="The Open Championship" event_type="stroke" purse="8000000.0" winning_share="1442826.0" points="600" start_date="2014-07-17" end_date="2014-07-20">
+      <venue id="75591bf4-bef5-4199-87cf-70a878646229" name="Royal Liverpool Golf Club" city="Hoylake" state="" zipcode="" country="England">
+        <course id="e03c56c1-6077-4983-8953-1ef7f35caf9c" name="Royal Liverpool" yardage="7350" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="429"/>
+            <hole number="2" par="4" yardage="372"/>
+            <hole number="3" par="5" yardage="535"/>
+            <hole number="4" par="3" yardage="202"/>
+            <hole number="5" par="4" yardage="483"/>
+            <hole number="6" par="4" yardage="433"/>
+            <hole number="7" par="3" yardage="198"/>
+            <hole number="8" par="5" yardage="534"/>
+            <hole number="9" par="4" yardage="393"/>
+            <hole number="10" par="4" yardage="448"/>
+            <hole number="11" par="3" yardage="198"/>
+            <hole number="12" par="4" yardage="456"/>
+            <hole number="13" par="3" yardage="161"/>
+            <hole number="14" par="5" yardage="576"/>
+            <hole number="15" par="4" yardage="459"/>
+            <hole number="16" par="5" yardage="560"/>
+            <hole number="17" par="4" yardage="457"/>
+            <hole number="18" par="4" yardage="456"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="aa0ae0cb-31f1-4450-97ca-21b651ea8ced" name="RBC Canadian Open" event_type="stroke" purse="5700000.0" winning_share="1026000.0" points="500" start_date="2014-07-24" end_date="2014-07-27">
+      <venue id="9da86cb4-0498-4443-9737-ca68634ed925" name="The Royal Montreal GC" city="Montreal" state="Quebec" zipcode="" country="Canada">
+        <course id="7240f6f1-30f0-4f5c-8e69-ae53b9cc2d26" name="The Royal Montreal GC" yardage="7153" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="444"/>
+            <hole number="2" par="4" yardage="385"/>
+            <hole number="3" par="4" yardage="437"/>
+            <hole number="4" par="4" yardage="501"/>
+            <hole number="5" par="3" yardage="203"/>
+            <hole number="6" par="5" yardage="570"/>
+            <hole number="7" par="3" yardage="153"/>
+            <hole number="8" par="4" yardage="394"/>
+            <hole number="9" par="4" yardage="437"/>
+            <hole number="10" par="4" yardage="460"/>
+            <hole number="11" par="4" yardage="476"/>
+            <hole number="12" par="5" yardage="570"/>
+            <hole number="13" par="3" yardage="224"/>
+            <hole number="14" par="4" yardage="369"/>
+            <hole number="15" par="4" yardage="448"/>
+            <hole number="16" par="4" yardage="456"/>
+            <hole number="17" par="3" yardage="160"/>
+            <hole number="18" par="4" yardage="466"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="d0f6f65d-7070-49a0-8bf3-368c718ec041" name="Barracuda Championship" event_type="stroke" purse="3000000.0" winning_share="540000.0" points="300" start_date="2014-07-31" end_date="2014-08-03">
+      <venue id="30eaad8d-ff14-4f1b-9e02-f3b6a77b7a2e" name="Montreux G&amp;CC" city="Reno" state="Nevada" zipcode="" country="USA">
+        <course id="b4389cbe-e11c-40dd-a775-9196549904e8" name="Montreux Golf and Country Club" yardage="7391" par="72">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="413"/>
+            <hole number="2" par="3" yardage="171"/>
+            <hole number="3" par="4" yardage="429"/>
+            <hole number="4" par="5" yardage="518"/>
+            <hole number="5" par="4" yardage="367"/>
+            <hole number="6" par="4" yardage="439"/>
+            <hole number="7" par="3" yardage="220"/>
+            <hole number="8" par="4" yardage="464"/>
+            <hole number="9" par="5" yardage="616"/>
+            <hole number="10" par="4" yardage="413"/>
+            <hole number="11" par="5" yardage="584"/>
+            <hole number="12" par="3" yardage="186"/>
+            <hole number="13" par="4" yardage="355"/>
+            <hole number="14" par="4" yardage="491"/>
+            <hole number="15" par="4" yardage="477"/>
+            <hole number="16" par="3" yardage="183"/>
+            <hole number="17" par="5" yardage="636"/>
+            <hole number="18" par="4" yardage="429"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="57d7ebbb-2b55-43b0-b824-750284545509" name="WGC Bridgestone Invitational" event_type="stroke" purse="9000000.0" winning_share="1500000.0" points="550" start_date="2014-07-31" end_date="2014-08-03">
+      <venue id="08c7803b-0ef8-4e8a-84db-a3095cb227f3" name="Firestone CC" city="Akron" state="Ohio" zipcode="" country="USA">
+        <course id="e6c59645-5894-4872-9e03-541fa2f25828" name="Firestone Country Club - South Course" yardage="7400" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="399"/>
+            <hole number="2" par="5" yardage="526"/>
+            <hole number="3" par="4" yardage="442"/>
+            <hole number="4" par="4" yardage="471"/>
+            <hole number="5" par="3" yardage="200"/>
+            <hole number="6" par="4" yardage="469"/>
+            <hole number="7" par="3" yardage="219"/>
+            <hole number="8" par="4" yardage="482"/>
+            <hole number="9" par="4" yardage="494"/>
+            <hole number="10" par="4" yardage="410"/>
+            <hole number="11" par="4" yardage="418"/>
+            <hole number="12" par="3" yardage="180"/>
+            <hole number="13" par="4" yardage="471"/>
+            <hole number="14" par="4" yardage="467"/>
+            <hole number="15" par="3" yardage="221"/>
+            <hole number="16" par="5" yardage="667"/>
+            <hole number="17" par="4" yardage="400"/>
+            <hole number="18" par="4" yardage="464"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="0ad2f46c-d8eb-4acd-9176-21db82d22d19" name="PGA Championship" event_type="stroke" purse="10000000.0" winning_share="1445000.0" points="600" start_date="2014-08-07" end_date="2014-08-10">
+      <venue id="f53edcd4-ac49-4dc8-b905-92a74fd8e865" name="Valhalla Golf Club" city="Louisville" state="Kentucky" zipcode="" country="USA">
+        <course id="43b4b8a7-6c7c-4b11-a6de-36f4659edbcf" name="Valhalla GC" yardage="7540" par="73">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="450"/>
+            <hole number="2" par="5" yardage="530"/>
+            <hole number="3" par="3" yardage="210"/>
+            <hole number="4" par="4" yardage="375"/>
+            <hole number="5" par="4" yardage="460"/>
+            <hole number="6" par="4" yardage="495"/>
+            <hole number="7" par="5" yardage="600"/>
+            <hole number="8" par="3" yardage="190"/>
+            <hole number="9" par="4" yardage="415"/>
+            <hole number="10" par="5" yardage="595"/>
+            <hole number="11" par="3" yardage="210"/>
+            <hole number="12" par="4" yardage="470"/>
+            <hole number="13" par="4" yardage="355"/>
+            <hole number="14" par="3" yardage="220"/>
+            <hole number="15" par="4" yardage="435"/>
+            <hole number="16" par="5" yardage="510"/>
+            <hole number="17" par="4" yardage="475"/>
+            <hole number="18" par="5" yardage="545"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="d99e3312-7a98-438a-b7ad-b0645a142818" name="Wyndham Championship" event_type="stroke" purse="5300000.0" winning_share="954000.0" points="500" start_date="2014-08-14" end_date="2014-08-17">
+      <venue id="c7eeb574-ce09-4c61-8fa6-dd5f9685c3f0" name="Sedgefield Country Club" city="Greensboro" state="North Carolina" zipcode="" country="USA">
+        <course id="e0e8218f-7815-485e-b176-6b731e285e34" name="Sedgefield Country Club" yardage="7117" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="418"/>
+            <hole number="2" par="4" yardage="442"/>
+            <hole number="3" par="3" yardage="174"/>
+            <hole number="4" par="4" yardage="428"/>
+            <hole number="5" par="5" yardage="529"/>
+            <hole number="6" par="4" yardage="423"/>
+            <hole number="7" par="3" yardage="223"/>
+            <hole number="8" par="4" yardage="374"/>
+            <hole number="9" par="4" yardage="416"/>
+            <hole number="10" par="4" yardage="440"/>
+            <hole number="11" par="4" yardage="486"/>
+            <hole number="12" par="3" yardage="235"/>
+            <hole number="13" par="4" yardage="405"/>
+            <hole number="14" par="4" yardage="501"/>
+            <hole number="15" par="5" yardage="547"/>
+            <hole number="16" par="3" yardage="163"/>
+            <hole number="17" par="4" yardage="406"/>
+            <hole number="18" par="4" yardage="507"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="24f52d11-a69c-4533-bf99-66533c54a7e8" name="The Barclays" event_type="stroke" purse="8000000.0" winning_share="1440000.0" points="2500" start_date="2014-08-21" end_date="2014-08-24">
+      <venue id="7f2e7f26-7655-4d53-a31a-d01c32c16b6d" name="Ridgewood Country Club" city="Paramus" state="New Jersey" zipcode="" country="USA">
+        <course id="74efc26c-4d65-4627-9ae0-bc4ae4558ea6" name="Ridgewood CC" yardage="7501" par="73">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="380"/>
+            <hole number="2" par="3" yardage="190"/>
+            <hole number="3" par="5" yardage="588"/>
+            <hole number="4" par="4" yardage="444"/>
+            <hole number="5" par="4" yardage="291"/>
+            <hole number="6" par="4" yardage="471"/>
+            <hole number="7" par="5" yardage="536"/>
+            <hole number="8" par="3" yardage="217"/>
+            <hole number="9" par="4" yardage="440"/>
+            <hole number="10" par="3" yardage="230"/>
+            <hole number="11" par="4" yardage="467"/>
+            <hole number="12" par="5" yardage="568"/>
+            <hole number="13" par="5" yardage="626"/>
+            <hole number="14" par="4" yardage="412"/>
+            <hole number="15" par="3" yardage="155"/>
+            <hole number="16" par="4" yardage="422"/>
+            <hole number="17" par="5" yardage="594"/>
+            <hole number="18" par="4" yardage="470"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="1d937b3a-85ba-4628-a12b-7f55b45bb60b" name="Deutsche Bank Championship" event_type="stroke" purse="8000000.0" winning_share="1440000.0" points="2500" start_date="2014-08-29" end_date="2014-09-01">
+      <venue id="a0ebfa66-2c7f-485a-8f00-fd82614d7f83" name="TPC Boston" city="Norton" state="Massachusetts" zipcode="" country="UNITED STATES">
+        <course id="7ad4692b-dd78-4484-88bf-41aa3013bc99" name="TPC Boston" yardage="7216" par="71">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="365"/>
+            <hole number="2" par="5" yardage="542"/>
+            <hole number="3" par="3" yardage="208"/>
+            <hole number="4" par="4" yardage="298"/>
+            <hole number="5" par="4" yardage="466"/>
+            <hole number="6" par="4" yardage="465"/>
+            <hole number="7" par="5" yardage="600"/>
+            <hole number="8" par="3" yardage="213"/>
+            <hole number="9" par="4" yardage="472"/>
+            <hole number="10" par="4" yardage="425"/>
+            <hole number="11" par="3" yardage="231"/>
+            <hole number="12" par="4" yardage="461"/>
+            <hole number="13" par="4" yardage="451"/>
+            <hole number="14" par="4" yardage="495"/>
+            <hole number="15" par="4" yardage="421"/>
+            <hole number="16" par="3" yardage="161"/>
+            <hole number="17" par="4" yardage="412"/>
+            <hole number="18" par="5" yardage="530"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="b4125c46-81b1-4bf2-a8ea-8cf8503e956e" name="BMW Championship" event_type="stroke" purse="8000000.0" winning_share="1440000.0" points="2500" start_date="2014-09-04" end_date="2014-09-07">
+      <venue id="65687950-fdc3-47ed-9203-b9c8d6d6f147" name="Cherry Hills Country Club" city="Englewood" state="Colorado" zipcode="" country="USA">
+        <course id="0039f0b7-32ae-41d7-9e33-d12ca951c458" name="Cherry Hills CC" yardage="0" par="0">
+          <description/>
+          <holes>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="6cf46fcf-6366-49e4-95c9-4cad536c94de" name="TOUR Championship presented by Coca-Cola" event_type="stroke" purse="8000000.0" winning_share="1440000.0" points="2500" start_date="2014-09-11" end_date="2014-09-14">
+      <venue id="4ce41d81-8412-4696-afcf-f2397bc26c72" name="East Lake GC" city="Atlanta" state="Georgia" zipcode="" country="UNITED STATES">
+        <course id="58016222-6d1e-4db9-b19f-1512500f624f" name="East Lake GC" yardage="7154" par="70">
+          <description/>
+          <holes>
+            <hole number="1" par="4" yardage="424"/>
+            <hole number="2" par="3" yardage="214"/>
+            <hole number="3" par="4" yardage="387"/>
+            <hole number="4" par="4" yardage="440"/>
+            <hole number="5" par="4" yardage="520"/>
+            <hole number="6" par="3" yardage="168"/>
+            <hole number="7" par="4" yardage="394"/>
+            <hole number="8" par="4" yardage="405"/>
+            <hole number="9" par="5" yardage="600"/>
+            <hole number="10" par="4" yardage="469"/>
+            <hole number="11" par="3" yardage="197"/>
+            <hole number="12" par="4" yardage="391"/>
+            <hole number="13" par="4" yardage="439"/>
+            <hole number="14" par="4" yardage="442"/>
+            <hole number="15" par="5" yardage="495"/>
+            <hole number="16" par="4" yardage="481"/>
+            <hole number="17" par="4" yardage="453"/>
+            <hole number="18" par="3" yardage="235"/>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+    <tournament id="43bc3faa-a3d9-4acd-94be-fae0e3d42edc" name="Ryder Cup" event_type="cup" start_date="2014-09-26" end_date="2014-09-28">
+      <venue id="4e9597b2-3bc6-46bb-bce0-0a7b610e0b3d" name="Gleneagles, GC" city="Perthshire" state="" zipcode="" country="GBR">
+        <course id="e80f2189-cb35-4887-8304-984a6e28ac50" name="PGA Centenary Course" yardage="0" par="0">
+          <description/>
+          <holes>
+          </holes>
+        </course>
+      </venue>
+    </tournament>
+  </season>
+</tour>
+<!-- Generation ended @ 2014-07-14 20:31:10 +0000 -->
